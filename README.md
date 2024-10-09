@@ -54,5 +54,5 @@ I was an officer in the U.S. Army, and I bring the same dedication, discipline, 
 ---
 
 #### ✨ GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,issues)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremy-hastings&show_icons=true&hide=contribs,issues)
 
