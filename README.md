@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Jeremy Hastings 👋
 
 I'm a Full-Stack Developer with a focus on **Ruby on Rails** and backend technologies. With over 4 years of professional experience in building and maintaining scalable web applications, I take pride in writing clean, maintainable, and test-driven code.
 
@@ -43,9 +43,8 @@ In school, I was introduced to **C#** and **.NET** and gained exposure to variou
 ---
 
 ### 📫 How to Reach Me:
-- LinkedIn: [Your LinkedIn Profile URL]
-- Twitter: [Your Twitter Handle]
-- Email: [Your Email Address]
+- LinkedIn: [https://www.linkedin.com/in/jeremy-hastings]
+- Email: [jeremy.hastings@mac.com]
 
 ---
 
